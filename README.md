@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhirbara12&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirbara12" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Java, Spring boot , Microservices**
 
